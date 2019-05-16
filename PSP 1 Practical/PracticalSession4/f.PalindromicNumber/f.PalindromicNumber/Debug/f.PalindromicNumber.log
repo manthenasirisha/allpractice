@@ -1,0 +1,2 @@
+﻿  f.PalindromicNumber.cpp
+c:\users\psrvarma\desktop\new c++\practicalsession4\f.palindromicnumber\f.palindromicnumber\f.palindromicnumber.cpp(20): error C4700: uninitialized local variable 'reverseNumber' used

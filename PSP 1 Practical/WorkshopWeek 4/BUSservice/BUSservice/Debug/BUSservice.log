@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  BUSservice.cpp
+c:\users\psrvarma\desktop\new c++\workshopweek 4\busservice\busservice\busservice.cpp(86): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  BUSservice.vcxproj -> C:\Users\psrvarma\Desktop\New C++\WorkshopWeek 4\BUSservice\Debug\BUSservice.exe

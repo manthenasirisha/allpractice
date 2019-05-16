@@ -1,0 +1,5 @@
+﻿  Q.3.cpp
+c:\users\psrvarma\desktop\new c++\practical 8\q.3\q.3\q.3.cpp(47): warning C4101: 'adult': unreferenced local variable
+c:\users\psrvarma\desktop\new c++\practical 8\q.3\q.3\q.3.cpp(47): warning C4101: 'senior': unreferenced local variable
+c:\users\psrvarma\desktop\new c++\practical 8\q.3\q.3\q.3.cpp(47): warning C4101: 'young': unreferenced local variable
+  Q.3.vcxproj -> C:\Users\psrvarma\Desktop\New C++\PRACTICAL 8\Q.3\Debug\Q.3.exe

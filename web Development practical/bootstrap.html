@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Bootstrap Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+  
+  <style>
+{
+  box-sizing: border-box;
+}
+
+
+.column {
+  float: left;
+  width: 25%;
+  padding: 20px;
+}
+
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+@media screen and (max-width: 992px) {
+  .column {
+    width: 50%;
+  }
+}
+
+
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
+}
+</style>
+</head>
+
+<body>
+
+
+ 
+  
+  <div class="container-fluid">
+    <!-- Control the column width, and how they should appear on different devices -->
+    <div class="row h-50";>
+      <div class="col-md-6" style="background-color:yellow;border:5px solid white;">50%</div>
+      <div class="col-md-6" style="background-color:blue;border:5px solid white;">50%</div>
+    </div>
+   
+   <br>
+    
+    <div class="row h-50">
+      <div class="col-md-12" style="background-color:orange;border:5px solid white;">100%</div>
+     </div>
+
+    <br>
+    <!-- Or let Bootstrap automatically handle the layout -->
+ 
+    <div class="row h-50">
+		<div class="col-md-4" style="background-color:lightblue; border:5px solid white;"></div>
+		<div class="col-md-4" style="background-color:orange; border:5px solid white;"> middle</div>
+		<div class="col-md-4" style="background-color:lightgreen; border:5px solid white;"></div>
+	</div>
+     
+    <br>
+    
+    <div class="row h-50">
+      <div class="col-md-3" style="background-color:red;border:5px solid white;">25%</div>
+      <div class="col-md-3" style="background-color:green;border:5px solid white;">25%</div>
+      <div class="col-md-3" style="background-color:red;border:5px solid white;">25%</div>
+      <div class="col-md-3" style="background-color:green;border:5px solid white;">25%</div>
+    </div>
+	
+  </div>
+
+
+</body>
+</html>

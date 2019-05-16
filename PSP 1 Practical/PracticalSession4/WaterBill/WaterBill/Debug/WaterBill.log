@@ -1,0 +1,4 @@
+﻿  WaterBill.cpp
+c:\users\psrvarma\desktop\new c++\practicalsession4\waterbill\waterbill\waterbill.cpp(24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\psrvarma\desktop\new c++\practicalsession4\waterbill\waterbill\waterbill.cpp(32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  WaterBill.vcxproj -> C:\Users\psrvarma\Desktop\New C++\PracticalSession4\WaterBill\Debug\WaterBill.exe

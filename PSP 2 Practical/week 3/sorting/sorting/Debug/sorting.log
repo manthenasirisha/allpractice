@@ -1,0 +1,3 @@
+﻿  practicalThreeSource.cpp
+practicalThreeSource.obj : error LNK2019: unresolved external symbol "void __cdecl Swap(int &,int &)" (?Swap@@YAXAAH0@Z) referenced in function "void __cdecl selectionSort(int * const,int)" (?selectionSort@@YAXQAHH@Z)
+C:\Users\psrvarma\Desktop\university\PSP 2 Practical\week 3\sorting\Debug\sorting.exe : fatal error LNK1120: 1 unresolved externals

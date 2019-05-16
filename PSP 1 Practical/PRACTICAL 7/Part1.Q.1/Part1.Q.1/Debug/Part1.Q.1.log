@@ -1,0 +1,6 @@
+﻿  Part1.Q.1.cpp
+c:\users\psrvarma\desktop\new c++\practical 7\part1.q.1\part1.q.1\part1.q.1.cpp(203): warning C4101: 'absolutenumber': unreferenced local variable
+c:\users\psrvarma\desktop\new c++\practical 7\part1.q.1\part1.q.1\part1.q.1.cpp(306): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\psrvarma\desktop\new c++\practical 7\part1.q.1\part1.q.1\part1.q.1.cpp(312): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\psrvarma\desktop\new c++\practical 7\part1.q.1\part1.q.1\part1.q.1.cpp(318): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Part1.Q.1.vcxproj -> C:\Users\psrvarma\Desktop\New C++\PRACTICAL 7\Part1.Q.1\Debug\Part1.Q.1.exe

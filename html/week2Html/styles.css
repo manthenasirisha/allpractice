@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css"
+href="styles.css" media="all" />
+	<style>
+		p{background-color: green; color: red;}
+		 .yellow {color: yellow;}
+		 #latest {color: blue;}
+	</style>
+</head>
+<body>
+	<h2 class="yellow">Yellow heading</h2>
+	<p>Red text</p>
+	<p class="yellow">Yellow text</p>
+	<p>Red text</p>
+	<p id="latest">Blue text</p>
+</body>
+	
+</html>

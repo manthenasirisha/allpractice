@@ -1,0 +1,2 @@
+﻿  Part1.cpp
+c:\users\psrvarma\desktop\new c++\week 7 workshop\part1\part1\part1.cpp(31): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?

@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  RoomRateAndNights.cpp
+c:\users\psrvarma\desktop\new c++\week 2 workshop\roomrateandnights\roomrateandnights\roomrateandnights.cpp(25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  RoomRateAndNights.vcxproj -> C:\Users\psrvarma\Desktop\New C++\week 2 workshop\RoomRateAndNights\Debug\RoomRateAndNights.exe

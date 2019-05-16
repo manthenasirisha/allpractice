@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+</body>
+	
+	First name: <input type="text" name="firstname" /><br />
+	Last name: <input type="text" name="lastname" /><br/>
+	Password: <input type="password" name="password" /><br/>
+	
+	<textarea name="essay" rows="10" cols="30">
+	default text
+	</textarea><br/>
+	<p>Do you have a bike or car</p>
+	<input type="checkbox" name="vehicle" value="Bike" />I have a Bike<br />
+	<input type="checkbox" name="vehicle" value="Car" />I have a Car<br />
+	
+	<input type="radio" name="degree" value="UG" />UG-Student<br />
+	<input type="radio" name="degree" value="UG" />PG-Student<br />
+	
+	<select name="cars"  multiple="multiple">
+		<option value="volvo"  selected>Volvo</option>
+		<option value="saab">Saab</option>
+		<option value="fiat">Fiat</option>
+		<option value="audi">Audi</option>
+		<option value="volvo"  selected>Volvo</option>
+		<option value="saab">Saab</option>
+		<option value="fiat">Fiat</option>
+		<option value="audi">Audi</option>
+	</select> <br />
+	
+	<fieldset>
+		<legend>Personal information:</legend>
+		Name: <input type="text" name="name" size="30" /><br />
+		E-mail: <input type="text" name="email" size="30" /><br />
+		Date of birth: <input type="text" name="dob" size="10" />
+	</fieldset><br/>
+	
+	<form name="input" action="receiving_form.php" method="get">
+		Username: <input type="text" name="username"><br />
+		<input type="submit" name="Submit" value="Submit">
+		<input type="reset" name="Reset" value="Reset">
+	</form>
+	<p>Please choose your browser</p>
+	<input list = "browsers">
+	<datalist id="browsers">
+		<option value="Internet Explorer">
+		<option value="Firefox">
+		<option value="Chrome">
+		<option value="Opera">
+		<option value="Safari">
+	</datalist> 
+	
+	<iframe width="560" height="315"
+	src="https://www.youtube.com/embed/-Na2YAKtmmE"
+	frameborder="0" allow="autoplay; encrypted-media"
+	allowfullscreen></iframe>
+	
+</body>
+</html>

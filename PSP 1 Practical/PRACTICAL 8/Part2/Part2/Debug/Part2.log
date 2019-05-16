@@ -1,0 +1,5 @@
+﻿  Part2.cpp
+c:\users\psrvarma\desktop\new c++\practical 8\part2\part2\part2.cpp(46): warning C4101: 'adult': unreferenced local variable
+c:\users\psrvarma\desktop\new c++\practical 8\part2\part2\part2.cpp(46): warning C4101: 'senior': unreferenced local variable
+c:\users\psrvarma\desktop\new c++\practical 8\part2\part2\part2.cpp(46): warning C4101: 'young': unreferenced local variable
+  Part2.vcxproj -> C:\Users\psrvarma\Desktop\New C++\PRACTICAL 8\Part2\Debug\Part2.exe

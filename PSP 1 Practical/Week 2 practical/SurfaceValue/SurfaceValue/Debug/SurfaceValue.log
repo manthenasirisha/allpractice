@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  SurfaceValue.cpp
+c:\users\psrvarma\desktop\new c++\week 2 practical\surfacevalue\surfacevalue\surfacevalue.cpp(20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  SurfaceValue.vcxproj -> C:\Users\psrvarma\Desktop\New C++\Week 2 practical\SurfaceValue\Debug\SurfaceValue.exe

@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  Q.2.QuadraticEquation.cpp
+c:\users\psrvarma\desktop\new c++\practicalsession4\q.2.quadraticequation\q.2.quadraticequation\q.2.quadraticequation.cpp(27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\psrvarma\desktop\new c++\practicalsession4\q.2.quadraticequation\q.2.quadraticequation\q.2.quadraticequation.cpp(34): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\psrvarma\desktop\new c++\practicalsession4\q.2.quadraticequation\q.2.quadraticequation\q.2.quadraticequation.cpp(35): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Q.2.QuadraticEquation.vcxproj -> C:\Users\psrvarma\Desktop\New C++\PracticalSession4\Q.2.QuadraticEquation\Debug\Q.2.QuadraticEquation.exe

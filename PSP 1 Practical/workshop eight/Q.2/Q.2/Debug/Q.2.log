@@ -1,0 +1,3 @@
+﻿  Q.2.cpp
+c:\users\psrvarma\desktop\new c++\workshop eight\q.2\q.2\q.2.cpp(115): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Q.2.vcxproj -> C:\Users\psrvarma\Desktop\New C++\workshop eight\Q.2\Debug\Q.2.exe

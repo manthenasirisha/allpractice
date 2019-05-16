@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+ <body>
+	<div id ="container" style = "width:500px">
+		<div id = "header" style = "background - color: orange;">
+			<h1>Main Title of Web Page</h1>
+		</div>
+		div id="menu" style="background-color: green;">
+			<h2>Menu</h2>
+				...
+		</div>
+		<div id="content" style="background-color: yellow;">
+			<h2>Great Content</h2>
+				Content goes here ...
+		</div>
+		<div id="footer" style="background-color: red;">
+		Copyright 
+	</div>
+</body>
+</html>

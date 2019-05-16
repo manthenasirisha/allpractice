@@ -1,0 +1,4 @@
+﻿  Part1.Q1.ReamsOfPaper.cpp
+c:\users\psrvarma\desktop\new c++\work shop 6\part1.q1.reamsofpaper\part1.q1.reamsofpaper\part1.q1.reamsofpaper.cpp(21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\psrvarma\desktop\new c++\work shop 6\part1.q1.reamsofpaper\part1.q1.reamsofpaper\part1.q1.reamsofpaper.cpp(23): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Part1.Q1.ReamsOfPaper.vcxproj -> C:\Users\psrvarma\Desktop\New C++\work shop 6\Part1.Q1.ReamsOfPaper\Debug\Part1.Q1.ReamsOfPaper.exe

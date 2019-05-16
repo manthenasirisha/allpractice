@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  Extra.e.cpp
+c:\users\psrvarma\desktop\new c++\week 2 practical\extra.e\extra.e\extra.e.cpp(23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Extra.e.vcxproj -> C:\Users\psrvarma\Desktop\New C++\Week 2 practical\Extra.e\Debug\Extra.e.exe

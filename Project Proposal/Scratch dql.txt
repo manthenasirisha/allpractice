@@ -1,0 +1,2 @@
+INSERT INTO `student` (`id`, `name`, `identification_number`, `course`, `batch_id`) VALUES (1, 'sirisha', '1234', 'PgDiloma', 123)
+

@@ -1,0 +1,63 @@
+
+<!DOCTYPE html> 
+
+<html>
+ <head>
+	
+	
+	
+    <script>
+		
+		function storeInputInSession() {
+			var inputValue = document.getElementById("inputText1").value;
+			
+			sessionStorage.setItem("inputText1Value", inputValue);
+		}
+		
+		function showValueInSession() {			
+			alert(sessionStorage.getItem("inputText1Value"));
+		}
+		
+		
+		function storeInputInLocal() {
+			var inputValue = document.getElementById("inputText1").value;
+			
+			localStorage.setItem("inputText1Value", inputValue);
+		}
+		function showValueInLocal() {			
+			alert(localStorage.getItem("inputText1Value"));
+		}
+		
+		if(localStorage.getItem("lastVisited") != undefined) {
+			window.location.assign(localStorage.getItem("lastVisited"));
+		} else {
+			localStorage.setItem("lastVisited", "C:/Users/psrvarma/Desktop/university/web%20Development%20practical/thridExcri.html");
+		}
+		
+	
+	</script>
+
+</head>
+ 
+	<input  id= "inputText1" type = "text" />
+	
+	<br/>
+	
+	
+	<button onclick="storeInputInLocal()">Store input in local</button>
+		<br/>
+
+
+	<button onclick="showValueInLocal()">Show value in local</button>
+		<br/>
+
+	
+	<a href="./SecondExceri.HTML"> Linek to the other page </a>
+
+
+	
+ <body>
+ 
+ </body>
+
+</html>

@@ -1,0 +1,27 @@
+<style>
+p {
+	background-color: green; 
+	color: red;
+}
+.yellow {
+	color: yellow;
+}
+#latest {color: blue;}/* some comment */
+		
+h1, h2, h3, h4 {color: blue;}
+
+p.red {color: red;}
+
+#latest {color: green;}
+
+ul.ulstyle1 {
+	color: green;
+	text: bold;
+}
+
+ul.ulstyle2 {
+	color: red;
+	text: bold;
+}
+
+</style>

@@ -1,0 +1,6 @@
+﻿  3Q.Arithmaticoperation.cpp
+c:\users\psrvarma\desktop\new c++\week1 practical\3q.arithmaticoperation\3q.arithmaticoperation\3q.arithmaticoperation.cpp(22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\psrvarma\desktop\new c++\week1 practical\3q.arithmaticoperation\3q.arithmaticoperation\3q.arithmaticoperation.cpp(25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\psrvarma\desktop\new c++\week1 practical\3q.arithmaticoperation\3q.arithmaticoperation\3q.arithmaticoperation.cpp(28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\psrvarma\desktop\new c++\week1 practical\3q.arithmaticoperation\3q.arithmaticoperation\3q.arithmaticoperation.cpp(31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  3Q.Arithmaticoperation.vcxproj -> C:\Users\psrvarma\Desktop\New C++\week1 Practical\3Q.Arithmaticoperation\Debug\3Q.Arithmaticoperation.exe

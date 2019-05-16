@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  VendingMachine.cpp
+c:\users\psrvarma\desktop\new c++\workshopweekthree\vendingmachine\vendingmachine\vendingmachine.cpp(10): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\psrvarma\desktop\new c++\workshopweekthree\vendingmachine\vendingmachine\vendingmachine.cpp(36): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  VendingMachine.vcxproj -> C:\Users\psrvarma\Desktop\New C++\WorkshopWeekThree\VendingMachine\Debug\VendingMachine.exe

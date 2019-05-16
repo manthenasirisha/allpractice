@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EvaluateEquation", "EvaluateEquation\EvaluateEquation.vcxproj", "{31213AF7-15FD-4A68-9153-B42BC6B3DFB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31213AF7-15FD-4A68-9153-B42BC6B3DFB3}.Debug|x64.ActiveCfg = Debug|x64
+		{31213AF7-15FD-4A68-9153-B42BC6B3DFB3}.Debug|x64.Build.0 = Debug|x64
+		{31213AF7-15FD-4A68-9153-B42BC6B3DFB3}.Debug|x86.ActiveCfg = Debug|Win32
+		{31213AF7-15FD-4A68-9153-B42BC6B3DFB3}.Debug|x86.Build.0 = Debug|Win32
+		{31213AF7-15FD-4A68-9153-B42BC6B3DFB3}.Release|x64.ActiveCfg = Release|x64
+		{31213AF7-15FD-4A68-9153-B42BC6B3DFB3}.Release|x64.Build.0 = Release|x64
+		{31213AF7-15FD-4A68-9153-B42BC6B3DFB3}.Release|x86.ActiveCfg = Release|Win32
+		{31213AF7-15FD-4A68-9153-B42BC6B3DFB3}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C8575B0-E55B-45B6-85EB-6AE997144AD5}
+	EndGlobalSection
+EndGlobal

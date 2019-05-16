@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Bootstrap 4 Website Example</title>
+  <meta charset="utf-8">
+  <meta name="view port" content="width=device-width, initial-scale=1">
+  <link rel="style sheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+  <style>
+  .fakeimg {
+    height: 200px;
+    background: #AAA;
+  }
+  </style>
+</head>
+</head>
+ <body>
+<h1>My First JavaScript</h1> 
+<button type="button"
+onclick="document.getElementById('demo').innerHTML = Date()">
+Click me to display Date and Time.</button>
+
+<p id="demo">some text</p>
+<p id = "pl"> Hello world!</p>
+<p>Enter a number and click OK:</p>
+
+<input id="id1" type="number" min="100" max="300" required>
+<button onclick="myFunction()">OK</button>
+
+<p>Enter the Number</p>
+
+
+<p id="demo"></p>
+
+<input id="numb">
+ <p>How did you hear about us?</p>
+<button onclick="myFunction()">please specify</button>
+</button>
+
+
+<script>
+
+	function myFunction() {
+	var inpObj = document.getElementById("id1");
+	if (!inpObj.checkValidity()) {
+    document.getElementById("demo").innerHTML = inpObj.validationMessage;
+	} else {
+    document.getElementById("demo").innerHTML = "Input OK";
+	} 
+	} 
+
+	
+	document.getElementById("p1").style.display = "none";
+	document.getElementById("p1").style.display = "hidden";
+	document.getElementById("pl").innerHTML="New text";
+</script>
+
+
+</body>	
+	
+</html>

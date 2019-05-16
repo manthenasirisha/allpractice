@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script src="myjavascript.js"></script>	
+<style>
+
+.red {
+	background-color: red;
+}
+.blue {
+	background-color: blue;
+}
+.green {
+	background-color: green;
+}
+.yellow {
+	background-color: yellow;
+}
+.orange {
+	background-color: orange;
+}
+
+</style>
+</head>
+<body>
+	<form>
+		your Name: <br><input id="textInput" type="text"/>
+		
+		<br>
+		Font Color: <br>
+	
+		<select id = "backgroundColor">
+		  <option value="red">Red</option>
+		  <option value="blue">Blue</option>
+		  <option value="green">Green</option>
+		  <option value="yellow">Yellow</option>
+		  <option value="orange">Orange</option>
+		</select>
+	</form>
+	
+	<button onclick="changeColor()">Change</button>
+
+	 <br>
+	 
+	<div id="divContent">
+	
+	</div>
+</body>
+</html>

@@ -1,0 +1,4 @@
+﻿  NumberOfReams.cpp
+c:\users\psrvarma\desktop\new c++\workshop 6\numberofreams\numberofreams\numberofreams.cpp(22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\psrvarma\desktop\new c++\workshop 6\numberofreams\numberofreams\numberofreams.cpp(23): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  NumberOfReams.vcxproj -> C:\Users\psrvarma\Desktop\New C++\WORKSHOP 6\NumberOfReams\Debug\NumberOfReams.exe

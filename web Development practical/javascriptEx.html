@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<script>
+		
+			//  1) create a dot in the remaining space
+			//  2) on every stoke of the keys check if the dot is in the animate
+			//  3) if the dot is in the animate then increase the animate soze
+			//  4) the animate max size can only be 380 by 380
+			
+		   
+		
+			document.addEventListener("keydown", myMove)
+			function myMove(e) {
+				var elem = document.getElementById("animate");
+				var top = parseInt(elem.style.top);
+				var left = parseInt(elem.style.left);
+				if(e.keyCode==37 && left >= 10){
+					left = left - 10;
+					elem.style.left= left + "px"; // move left
+				}
+				if(e.keyCode==38 && top >= 10){
+				    top = top - 10;
+					elem.style.top = top + "px";			
+				} // move up
+				if(e.keyCode == 39 && left <= 340){
+					left = left + 10;
+					elem.style.left= left + "px";
+				} // move right
+				if(e.keyCode == 40 && top <= 340){
+					top = top + 10;
+					elem.style.top = top + "px";
+				} // move down
+			}
+
+		</script>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+	<style>
+	canvas {
+		border:1px solid #d3d3d3;
+		background-color: #f1f1f1;
+	}
+	</style>
+
+	<style>
+	#container {
+		width: 400px;
+		height: 400px;
+		position: relative;
+		background: yellow;
+	}
+	#animate {
+		width: 50px;
+		height: 50px;
+		position: absolute;
+		background-color: red;
+	}
+	</style>
+	</head>
+
+	<body>
+	<div id ="container" onmousemove="myFunction(event)" onmouseout="clearCoor()">
+		<div id="animate" style="top: 175px; left:175px;"></div>
+	</div>
+	
+	</body>
+</html>

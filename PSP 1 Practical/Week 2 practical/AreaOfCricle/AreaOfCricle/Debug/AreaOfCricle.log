@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  AreaOfCricle.cpp
+c:\users\psrvarma\desktop\new c++\week 2 practical\areaofcricle\areaofcricle\areaofcricle.cpp(16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  AreaOfCricle.vcxproj -> C:\Users\psrvarma\Desktop\New C++\Week 2 practical\AreaOfCricle\Debug\AreaOfCricle.exe

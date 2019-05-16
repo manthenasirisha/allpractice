@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  Part3.Q.1.cpp
+c:\users\psrvarma\desktop\new c++\week 5 workshop\part3.q.1\part3.q.1\part3.q.1.cpp(51): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Part3.Q.1.vcxproj -> C:\Users\psrvarma\Desktop\New C++\week 5 Workshop\Part3.Q.1\Debug\Part3.Q.1.exe

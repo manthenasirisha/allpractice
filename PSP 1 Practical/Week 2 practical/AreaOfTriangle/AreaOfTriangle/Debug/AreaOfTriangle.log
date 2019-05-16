@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  AreaOfTriangle.cpp
+c:\users\psrvarma\desktop\new c++\week 2 practical\areaoftriangle\areaoftriangle\areaoftriangle.cpp(24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  AreaOfTriangle.vcxproj -> C:\Users\psrvarma\Desktop\New C++\Week 2 practical\AreaOfTriangle\Debug\AreaOfTriangle.exe

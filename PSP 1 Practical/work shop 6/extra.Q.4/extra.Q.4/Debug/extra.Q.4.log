@@ -1,0 +1,4 @@
+﻿  extra.Q.4.cpp
+c:\users\psrvarma\desktop\new c++\work shop 6\extra.q.4\extra.q.4\extra.q.4.cpp(35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\psrvarma\desktop\new c++\work shop 6\extra.q.4\extra.q.4\extra.q.4.cpp(39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  extra.Q.4.vcxproj -> C:\Users\psrvarma\Desktop\New C++\work shop 6\extra.Q.4\Debug\extra.Q.4.exe

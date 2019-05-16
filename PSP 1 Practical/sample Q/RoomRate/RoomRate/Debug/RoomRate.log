@@ -1,0 +1,3 @@
+﻿  RoomRate.cpp
+c:\users\psrvarma\desktop\new c++\sample q\roomrate\roomrate\roomrate.cpp(28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  RoomRate.vcxproj -> C:\Users\psrvarma\Desktop\New C++\sample Q\RoomRate\Debug\RoomRate.exe

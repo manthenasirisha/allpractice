@@ -1,0 +1,3 @@
+﻿  AverageOf3Integers.cpp
+c:\users\psrvarma\desktop\new c++\week 2 workshop\averageof3integers\averageof3integers\averageof3integers.cpp(25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  AverageOf3Integers.vcxproj -> C:\Users\psrvarma\Desktop\New C++\week 2 workshop\AverageOf3Integers\Debug\AverageOf3Integers.exe

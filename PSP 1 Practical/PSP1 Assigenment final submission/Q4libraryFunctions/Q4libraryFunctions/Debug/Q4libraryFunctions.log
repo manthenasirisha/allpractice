@@ -1,0 +1,5 @@
+﻿  Q4libraryFunctions.cpp
+c:\users\psrvarma\desktop\new c++\psp1 assigenment final submission\q4libraryfunctions\q4libraryfunctions\q4libraryfunctions.cpp(173): warning C4101: 'perfect': unreferenced local variable
+c:\users\psrvarma\desktop\new c++\psp1 assigenment final submission\q4libraryfunctions\q4libraryfunctions\q4libraryfunctions.cpp(173): warning C4101: 'abundant': unreferenced local variable
+c:\users\psrvarma\desktop\new c++\psp1 assigenment final submission\q4libraryfunctions\q4libraryfunctions\q4libraryfunctions.cpp(173): warning C4101: 'deficient': unreferenced local variable
+  Q4libraryFunctions.vcxproj -> C:\Users\psrvarma\Desktop\New C++\PSP1 Assigenment final submission\Q4libraryFunctions\Debug\Q4libraryFunctions.exe
